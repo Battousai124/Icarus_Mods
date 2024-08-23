@@ -1,5 +1,5 @@
 {
-    "name": "Battos_Outdoor_Stations",
+    "name": "Batto's Outdoor Stations",
     "author": "Battousai124+CritFail",
     "version": "1.1",
     "week": "142",
@@ -320,51 +320,51 @@
                     "Name": "Battery_Shelf_T4",
                     "EffectedByWeather": false
                 },
-		{
+                {
                     "Name": "Medicine_Bench",
                     "EffectedByWeather": false
                 },
-		{
+                {
                     "Name": "Kitchen_Corner",
                     "EffectedByWeather": false
                 },
-		{
+                {
                     "Name": "Advanced_Kitchen_Corner",
                     "EffectedByWeather": false
                 },
-		{
+                {
                     "Name": "Electric_Oxite_Dissolver",
                     "EffectedByWeather": false
                 },
-		{
+                {
                     "Name": "Butchery_Bench",
                     "EffectedByWeather": false
                 },
-		{
+                {
                     "Name": "Advanced_Butchery_Bench",
                     "EffectedByWeather": false
                 },
-		{
+                {
                     "Name": "Manufacturer",
                     "EffectedByWeather": false
                 },
-		{
+                {
                     "Name": "Polymerizer",
                     "EffectedByWeather": false
                 },
-		{
+                {
                     "Name": "Organic_Extractor",
                     "EffectedByWeather": false
                 },
-		{
+                {
                     "Name": "Crude_Oil_Power_Generator",
                     "EffectedByWeather": false
                 },
-		{
+                {
                     "Name": "Bunker_Bunk_bed",
                     "EffectedByWeather": false
                 }
-	    ]
+            ]
         },
         {
             "CurrentFile": "Traits-D_Processing.json",
@@ -494,11 +494,11 @@
                 },
                 {
                     "Name": "Kitchen_Stove",
-                    "ManualActivation": false
+                    "bRequiresShelter": false
                 },
                 {
                     "Name": "Pot_Belly_Stove",
-                    "ManualActivation": false
+                    "bRequiresShelter": false
                 },
                 {
                     "Name": "Alteration_Bench",
@@ -518,7 +518,7 @@
                 },
                 {
                     "Name": "Exotic_Processor",
-                    "bRequiresShelter": false,
+                    "bRequiresShelter": false
                 },
                 {
                     "Name": "Electric_Stove",
