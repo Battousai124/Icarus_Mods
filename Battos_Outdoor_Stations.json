@@ -320,51 +320,51 @@
                     "Name": "Battery_Shelf_T4",
                     "EffectedByWeather": false
                 },
-				{
+		{
                     "Name": "Medicine_Bench",
                     "EffectedByWeather": false
                 },
-				{
+		{
                     "Name": "Kitchen_Corner",
                     "EffectedByWeather": false
                 },
-				{
+		{
                     "Name": "Advanced_Kitchen_Corner",
                     "EffectedByWeather": false
                 },
-				{
+		{
                     "Name": "Electric_Oxite_Dissolver",
                     "EffectedByWeather": false
                 },
-				{
+		{
                     "Name": "Butchery_Bench",
                     "EffectedByWeather": false
                 },
-				{
+		{
                     "Name": "Advanced_Butchery_Bench",
                     "EffectedByWeather": false
                 },
-				{
+		{
                     "Name": "Manufacturer",
                     "EffectedByWeather": false
                 },
-				{
+		{
                     "Name": "Polymerizer",
                     "EffectedByWeather": false
                 },
-				{
+		{
                     "Name": "Organic_Extractor",
                     "EffectedByWeather": false
                 },
-				{
+		{
                     "Name": "Crude_Oil_Power_Generator",
                     "EffectedByWeather": false
                 },
-				{
+		{
                     "Name": "Bunker_Bunk_bed",
                     "EffectedByWeather": false
                 }
-			]
+	    ]
         },
         {
             "CurrentFile": "Traits-D_Processing.json",
