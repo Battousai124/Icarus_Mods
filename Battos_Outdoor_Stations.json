@@ -1,0 +1,566 @@
+{
+    "name": "Battos_Outdoor_Stations",
+    "author": "Battousai124+CritFail",
+    "version": "1.1",
+    "week": "142",
+    "fileName": "Battos_Outdoor_Stations",
+    "imageURL": "",
+    "readmeURL": "",
+    "description": "Should make stations and storage furniture not require shelter.",
+    "Level2": "True",
+    "Rows": [
+        {
+            "CurrentFile": "Traits-D_Deployable.json",
+            "File_Items": [
+                {
+                    "Name": "Stone_Furnace",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Wood_Crate_Small",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Crafting_Bench",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Generator",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Oxite_Dissolver",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Mortar_And_Pestle",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Machining_Bench",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Material_Processor",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Concrete_Furnace",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Concrete_Furnace_V2",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Electric_Furnace",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Electric_Furnace_Large",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Fabricator",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Cooking_Station",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Cooking_Station_V2",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Wood_Cupboard",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Skinning_Bench",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Carpentry_Bench",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Carpentry_Bench_T4",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Wood_Crate_Medium",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Refrigerator",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "PotBellyStove",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Metal_Oxite_Dissolver",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Basic_Oxite_Dissolver",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Armor_Bench",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Masonry_Bench",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Cement_Mixer",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Interior_Wood_Crate_Small",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Interior_Wood_Crate_Medium",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Interior_Wood_Cupboard",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Herbalism_Bench",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Trophy_Bench",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "IceBox",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Bed_Interior_Wood",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Repair_Bench",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Anvil_Bench",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Glassworking_Bench",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Glassworking_Bench_V2",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Kitchen_Bench",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Kitchen_Stove",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Kitchen_Storage",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Heater_Large",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Cooler_Large",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Meta_Cot_Printed",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Chemistry_Bench",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Masonry_Bench_T4",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Composter_Electric",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Wood_Cupboard_Small",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Interior_Wood_Cupboard_Small",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Rustic_Decoration_Bench",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Rustic_Bed",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Alteration_Bench",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Advanced_Alteration_Bench",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Advanced_Armor_Bench",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Electric_Armor_Bench",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Exotic_Processor",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Advanced_Kitchen_Bench",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Advanced_Kitchen_Sink",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Electric_Stove",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Advanced_Kitchen_Storage",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Aquarium",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Advanced_Aquarium",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Large_Advanced_Aquarium",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Salting_Station",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Deep_Freeze",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Carved_Bed",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Anvil_Bench_T3",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Anvil_Bench_T4",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Masonry_Bench_T3",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Smoker_T4",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Metal_Bed",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Water_Purifier_T4",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Brutalist_Bed",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "T3_Exotic_Cleaner",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Gold_Bed",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Battery_Shelf_T3",
+                    "EffectedByWeather": false
+                },
+                {
+                    "Name": "Battery_Shelf_T4",
+                    "EffectedByWeather": false
+                },
+				{
+                    "Name": "Medicine_Bench",
+                    "EffectedByWeather": false
+                },
+				{
+                    "Name": "Kitchen_Corner",
+                    "EffectedByWeather": false
+                },
+				{
+                    "Name": "Advanced_Kitchen_Corner",
+                    "EffectedByWeather": false
+                },
+				{
+                    "Name": "Electric_Oxite_Dissolver",
+                    "EffectedByWeather": false
+                },
+				{
+                    "Name": "Butchery_Bench",
+                    "EffectedByWeather": false
+                },
+				{
+                    "Name": "Advanced_Butchery_Bench",
+                    "EffectedByWeather": false
+                },
+				{
+                    "Name": "Manufacturer",
+                    "EffectedByWeather": false
+                },
+				{
+                    "Name": "Polymerizer",
+                    "EffectedByWeather": false
+                },
+				{
+                    "Name": "Organic_Extractor",
+                    "EffectedByWeather": false
+                },
+				{
+                    "Name": "Crude_Oil_Power_Generator",
+                    "EffectedByWeather": false
+                },
+				{
+                    "Name": "Bunker_Bunk_bed",
+                    "EffectedByWeather": false
+                }
+			]
+        },
+        {
+            "CurrentFile": "Traits-D_Processing.json",
+            "Defaults": {
+                "Behaviour": "None",
+                "DefaultRecipeSet": {
+                    "RowName": "None",
+                    "DataTableName": "D_RecipeSets"
+                },
+                "RequiresEnergy": true,
+                "bRequiresShelter": false,
+                "AutoSelectRecipe": false,
+                "ManualActivation": false,
+                "QueueSize": 1,
+                "MaxMilliwattage": 1000,
+                "EffectedByPlayerStats": false,
+                "SendOutputDirectlyToPlayer": false
+            },
+            "File_Items": [
+                {
+                    "Name": "Crafting_Bench",
+                    "bRequiresShelter": false
+                },
+                {
+                    "Name": "Mortar_And_Pestle",
+                    "bRequiresShelter": false
+                },
+                {
+                    "Name": "Oxite_Dissolver",
+                    "bRequiresShelter": false
+                },
+                {
+                    "Name": "Stone_Furnace",
+                    "bRequiresShelter": false
+                },
+                {
+                    "Name": "Concrete_Furnace",
+                    "bRequiresShelter": false
+                },
+                {
+                    "Name": "Electric_Furnace",
+                    "bRequiresShelter": false
+                },
+                {
+                    "Name": "Machining_Bench",
+                    "bRequiresShelter": false
+                },
+                {
+                    "Name": "Composter_Electric",
+                    "bRequiresShelter": false
+                },
+                {
+                    "Name": "Material_Processor",
+                    "bRequiresShelter": false
+                },
+                {
+                    "Name": "Cooking_Station",
+                    "bRequiresShelter": false
+                },
+                {
+                    "Name": "Extractor",
+                    "bRequiresShelter": false
+                },
+                {
+                    "Name": "Fabricator",
+                    "bRequiresShelter": false
+                },
+                {
+                    "Name": "Skinning_Bench",
+                    "bRequiresShelter": false
+                },
+                {
+                    "Name": "Carpentry_Bench",
+                    "bRequiresShelter": false
+                },
+                {
+                    "Name": "Carpentry_Bench_T4",
+                    "bRequiresShelter": false
+                },
+                {
+                    "Name": "Metal_Oxite_Dissolver",
+                    "bRequiresShelter": false
+                },
+                {
+                    "Name": "Armor_Bench",
+                    "bRequiresShelter": false
+                },
+                {
+                    "Name": "Masonry_Bench",
+                    "bRequiresShelter": false
+                },
+                {
+                    "Name": "Masonry_Bench_T3",
+                    "bRequiresShelter": false
+                },
+                {
+                    "Name": "Masonry_Bench_T4",
+                    "bRequiresShelter": false
+                },
+                {
+                    "Name": "Cement_Mixer",
+                    "bRequiresShelter": false
+                },
+                {
+                    "Name": "Herbalism_Bench",
+                    "bRequiresShelter": false
+                },
+                {
+                    "Name": "Chemistry_Bench",
+                    "bRequiresShelter": false
+                },
+                {
+                    "Name": "Trophy_Bench",
+                    "bRequiresShelter": false
+                },
+                {
+                    "Name": "Anvil_Bench",
+                    "bRequiresShelter": false
+                },
+                {
+                    "Name": "Glassworking_Bench",
+                    "bRequiresShelter": false
+                },
+                {
+                    "Name": "Kitchen_Bench",
+                    "bRequiresShelter": false
+                },
+                {
+                    "Name": "Kitchen_Stove",
+                    "ManualActivation": false
+                },
+                {
+                    "Name": "Pot_Belly_Stove",
+                    "ManualActivation": false
+                },
+                {
+                    "Name": "Alteration_Bench",
+                    "bRequiresShelter": false
+                },
+                {
+                    "Name": "Advanced_Alteration_Bench",
+                    "bRequiresShelter": false
+                },
+                {
+                    "Name": "Advanced_Armor_Bench",
+                    "bRequiresShelter": false
+                },
+                {
+                    "Name": "Electric_Armor_Bench",
+                    "bRequiresShelter": false
+                },
+                {
+                    "Name": "Exotic_Processor",
+                    "bRequiresShelter": false,
+                },
+                {
+                    "Name": "Electric_Stove",
+                    "bRequiresShelter": false
+                },
+                {
+                    "Name": "Advanced_Kitchen_Bench",
+                    "bRequiresShelter": false
+                },
+                {
+                    "Name": "Anvil_Bench_T4",
+                    "bRequiresShelter": false
+                },
+                {
+                    "Name": "T3_Cleaning_Device",
+                    "bRequiresShelter": false
+                },
+                {
+                    "Name": "Medicine_Bench",
+                    "bRequiresShelter": false
+                },
+                {
+                    "Name": "Butchery_Bench",
+                    "bRequiresShelter": false
+                },
+                {
+                    "Name": "Advanced_Butchery_Bench",
+                    "bRequiresShelter": false
+                },
+                {
+                    "Name": "Manufacturer",
+                    "bRequiresShelter": false
+                },
+                {
+                    "Name": "Polymerizer",
+                    "bRequiresShelter": false
+                }
+            ]
+        },
+        {
+            "CurrentFile": "EndOfMod"
+        }
+    ]
+}
+
